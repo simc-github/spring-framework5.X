@@ -5,6 +5,6 @@
 
 
 	<bean id = "testBean" class="com.simc.test01.TestBean">
-
+		<property name="userName" value="simc"/>
 	</bean>
 </beans>
